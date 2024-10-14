@@ -28,6 +28,7 @@ The Gym Management System is an application that allows gym owners to manage the
    cd gym_management_system
 
 2. **Create a virtual environment (optional but recommended)**:
+    ```bash
     python -m venv env
     .\env\Scripts\activate
 
