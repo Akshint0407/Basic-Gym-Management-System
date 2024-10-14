@@ -4,7 +4,7 @@
 
 ## Description
 
-The Gym Management System is an application that allows gym owners to manage their members efficiently. It includes functionalities to add, update, delete, and view members. The bash script is for restarting mySwl after I turn on my computer you can edit it or ignore it.
+The Gym Management System is an application that allows gym owners to manage their members efficiently. It includes functionalities to add, update, delete, and view members. The bash script is for restarting mySql after I turn on my computer you can edit it or ignore it.
 
 ## Features
 
