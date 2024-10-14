@@ -1,6 +1,6 @@
 # Gym Management System
 
-**Project by Dhruv Kumar and Akshint Verma**
+**Project by Dhruv Kumar and Akshint Varma**
 
 ## Description
 
