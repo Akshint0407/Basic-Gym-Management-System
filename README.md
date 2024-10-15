@@ -24,7 +24,7 @@ The Gym Management System is an application that allows gym owners to manage the
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your_username/gym_management_system.git
+   git clone https://github.com/DumboDhruvi/gym_management_system.git
    cd gym_management_system
 
 2. **Create a virtual environment (optional but recommended)**:
