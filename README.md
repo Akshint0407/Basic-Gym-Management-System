@@ -34,9 +34,12 @@ The Gym Management System is an application that allows gym owners to manage the
 
 
 3. **Install the required packages**:
+    ```bash
     pip install -r requirements.txt
 
-4. **Set up MySQL database**:
+5. **Set up MySQL database**:
+   ```bash
+
     CREATE DATABASE gym_management;
 
     USE gym_management;
@@ -51,5 +54,11 @@ The Gym Management System is an application that allows gym owners to manage the
     subscription_type VARCHAR(50)
     );
 
-5. **RUN IT**:
+7. **RUN IT**:
+   ```bash
+
     python main.py
+
+## Contributors
+- Dhruv Kumar
+- Akshint Varma
